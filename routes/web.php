@@ -23,6 +23,6 @@ Route::group(['prefix' => 'admin'], function() {
 
 // 課題09-4
 Route::group(['prefix' => 'admin'], function() {
-    Route::get('profile/cerate', 'Admin\ProfileController@add');
+    Route::get('profile/create', 'Admin\ProfileController@add');
     Route::get('profile/edit', 'Admin\ProfileController@edit');
 });

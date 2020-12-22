@@ -21,11 +21,11 @@ body {
   position: absolute;
   bottom: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: #4169e1;
 }
 
 .headline .caption .title h1 {
-  color: #fff;
+  color: #999999;
   font-size: 1.2em;
 }
 

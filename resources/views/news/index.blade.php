@@ -15,7 +15,7 @@
                                     @endif
                                 </div>
                                 <div class="title p-2">
-                                    <h1>{{ str_limit($headline->title, 70) }}</h1>
+                                    <h1 color="#4169e1">{{ str_limit($headline->title, 70) }}</h1>
                                 </div>
                             </div>
                         </div>
